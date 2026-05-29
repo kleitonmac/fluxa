@@ -18,11 +18,10 @@ A aplicação centraliza informações estratégicas em tempo real, permitindo a
 
 ### 🚀 Demonstração Online
 
-Acesse a versão em produção do projeto:  https://fluxafinancas.vercel.app/
+Acesse a versão em produção do projeto:  
 
 <p align="center">
   <a href="https://fluxafinancas.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Plataforma-Fluxa%20Financeiro-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
