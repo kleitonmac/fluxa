@@ -1,4 +1,23 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%205-Framework-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2019-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite%208-Bundler-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-production--ready-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/deploy-Vercel-black?style=flat-square&logo=vercel" />
+</p>
+
+
+---
+
+
+<p align="center">
   <img src="docs/screenshots/inicio.png" alt="Fluxa — Landing Page" width="100%" />
   <br />
   <em>Landing page moderna e otimizada para SEO com foco em experiência do usuário</em>
