@@ -18,9 +18,8 @@ A aplicação centraliza informações estratégicas em tempo real, permitindo a
 
 ### 🚀 Demonstração Online
 
-Acesse a versão em produção do projeto:  
-
 <p align="center">
+  <p>Acesse a versão em produção do projeto:</p>
   <a href="https://fluxafinancas.vercel.app" target="_blank">
   </a>
 </p>
