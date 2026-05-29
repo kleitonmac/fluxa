@@ -1,14 +1,37 @@
 ## 🎯 O que é o Fluxa?
 
-O **Fluxa** é um SaaS financeiro full-stack desenvolvido para dar ao usuário total controle sobre suas finanças pessoais ou empresariais. A plataforma consolida em um único painel:
+O **Fluxa Financeiro** é uma plataforma SaaS full-stack desenvolvida para oferecer controle financeiro completo para usuários e pequenos negócios, reunindo em um único ambiente recursos avançados de gestão, análise e organização financeira.
 
-- **Visão geral financeira** — resumo em tempo real de gastos, receitas e tendências.
-- **Gestão de despesas** — categorize, filtre e acompanhe cada centavo gasto.
-- **Módulo comercial** — registre vendas, acompanhe receita por canal e ticket médio.
-- **Carteira internacional** — gerencie moedas e criptoativos com cotações atualizadas.
-- **Relatórios inteligentes** — exporte PDFs e CSVs prontos para análise.
-- **Planos e billing** — assinaturas gerenciadas via Stripe com checkout seguro.
-- **Painel administrativo** — gestão de usuários, planos, métricas e permissões.
+A aplicação centraliza informações estratégicas em tempo real, permitindo acompanhar despesas, receitas, vendas, patrimônio e indicadores financeiros através de uma interface moderna, intuitiva e responsiva.
+
+### ✨ Principais Recursos
+
+* **📊 Visão geral financeira** — acompanhamento em tempo real de gastos, receitas e tendências.
+* **💰 Gestão de despesas** — categorize, filtre e acompanhe movimentações financeiras.
+* **📈 Módulo comercial** — controle de vendas, receita por canal e ticket médio.
+* **🌍 Carteira internacional** — gerenciamento de moedas e criptoativos com conversão monetária.
+* **📄 Relatórios inteligentes** — exportação profissional em PDF e CSV.
+* **💳 Billing integrado** — assinaturas e pagamentos processados via Stripe.
+* **⚙️ Painel administrativo** — gerenciamento de usuários, permissões e métricas da plataforma.
+
+---
+
+### 🚀 Demonstração Online
+
+Acesse a versão em produção do projeto:  https://fluxafinancas.vercel.app/
+
+<p align="center">
+  <a href="https://fluxafinancas.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Plataforma-Fluxa%20Financeiro-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <strong>https://fluxafinancas.vercel.app</strong>
+</p>
+
+> 💡 O projeto possui um ambiente de demonstração seguro para portfólio, permitindo que recrutadores e avaliadores explorem a plataforma sem impactar dados reais.
+
 
 > 💡 **Preparado para portfólio** — o projeto inclui um modo DEMO seguro com dados fictícios, permitindo que recrutadores e avaliadores testem a plataforma sem riscos.
 <p align="center">
