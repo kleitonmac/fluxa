@@ -85,6 +85,12 @@ O **Fluxa** é um SaaS financeiro full-stack desenvolvido para dar ao usuário t
 | Evolução patrimonial | Acompanhe crescimento do portfólio ao longo do tempo |
 | Cotações atualizadas | Market rates service para conversão de moedas |
 
+<p align="center">
+  <img src="docs/screenshots/carteira.png" alt="Fluxa — Dashboard Financeiro" width="100%" />
+  <br />
+  <em>Painel de controle de carteira internacional</em>
+</p>
+
 ### 📄 Relatórios & Exportação
 | Recurso | Descrição |
 |---------|-----------|
@@ -92,6 +98,12 @@ O **Fluxa** é um SaaS financeiro full-stack desenvolvido para dar ao usuário t
 | Exportação CSV | Dados financeiros em planilha |
 | Exportação PDF | Relatório formatado via PDFKit |
 | Exportação avulsa | Compra unitária de exportação via Stripe (R$ 2,00) |
+
+<p align="center">
+  <img src="docs/screenshots/relatorio.png" alt="Fluxa — Dashboard Financeiro" width="100%" />
+  <br />
+  <em>Relatório de exportação de dados financeiros</em>
+</p>
 
 ### 💳 Billing (Stripe)
 | Plano | Preço |
@@ -120,6 +132,11 @@ O **Fluxa** é um SaaS financeiro full-stack desenvolvido para dar ao usuário t
 | Bloqueio de conta | Block/unblock de contas |
 | Reset de downloads | Reiniciar contadores de exportação |
 
+<p align="center">
+  <img src="docs/screenshots/admin.png" alt="Fluxa — Dashboard Financeiro" width="100%" />
+  <br />
+  <em>Painel administrativo</em>
+</p>
 ---
 
 ## 🛡️ Segurança
